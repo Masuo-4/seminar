@@ -1,1 +1,1 @@
-# zemi
+# seminar
